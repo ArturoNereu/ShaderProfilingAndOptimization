@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a9a2ae86038f81f4a96a762e5a97c1db
+timeCreated: 1490666574
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _Rocks3_N: {fileID: 2800000, guid: 65d1bc16e31c0764195fa7ab759eed3b, type: 3}
+  - _Rocks3_A: {fileID: 2800000, guid: 3707958f645d41c47b4294c3f254077e, type: 3}
+  - _Rocks3_E: {fileID: 2800000, guid: ded6ba8fd2f33ad47886d5b86398cbc9, type: 3}
+  - _noise: {fileID: 2800000, guid: eebff683a70f8d844adf3fb7fc780202, type: 3}
+  - _Rocks3_MS: {fileID: 2800000, guid: c0ccc8d4168a48045bc4df1db3dcb347, type: 3}
+  - _Rocks_AO: {fileID: 2800000, guid: 5c4a966f15fb52e47b9d0d6fd8fdb47d, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
