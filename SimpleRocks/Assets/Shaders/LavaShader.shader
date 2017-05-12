@@ -26,6 +26,7 @@ Shader "LavaShader"
 		#include "UnityShaderVariables.cginc"
 		#pragma target 3.0
 		#pragma surface surf Standard keepalpha addshadow fullforwardshadows vertex:vertexDataFunc 
+		//#pragma enable_d3d11_debug_symbols
 		struct Input
 		{
 			float2 uv_texcoord;
